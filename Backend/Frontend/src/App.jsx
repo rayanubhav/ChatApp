@@ -1,5 +1,5 @@
 import React from "react";
-import Left from "./home/left/left.jsx";
+import Left from "./home/left/Left.jsx";
 import Right from "./home/right/Right.jsx";
 import Logout from "./home/left1/Logout.jsx";
 import Signup from "./components/Signup.jsx";
